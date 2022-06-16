@@ -1,3 +1,4 @@
+# this is single inheritance program
 class person:
     def __init__(self, Name, Age, Address):
         self.Name = Name
